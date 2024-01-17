@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "The new 911 S/T",
+      "coverImg": "https://images.squarespace-cdn.com/content/v1/5f7ca9b4bb17060b028086bb/3a507996-5dca-4006-841b-edca2fc3e1cc/CZ22V23OX0005.jpeg",
+      "videoUrl": "https://www.youtube.com/embed/OTi50jdcx3s?autoplay=1"
+    },
+    {
+      "id": 2,
+      "title": "The Pagani Huayra BC",
+      "coverImg": "https://cdn.carbuzz.com/gallery-images/840x560/614000/100/614175.jpg",
+      "videoUrl": "https://www.youtube.com/embed/PfjcgcOfgww?autoplay=1"
+    },
+    {
+      "id": 3,
+      "title": "Buggati Chiron",
+      "coverImg": "https://media.assettype.com/evoindia/2020-03/da13d2d7-eb66-47a1-9116-91c35d2b8bfe/Bugatti_Chiron_Pur_Sport.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "videoUrl": "https://www.youtube.com/embed/FuS_bXJNync?autoplay=1"
+    },
+    {
+      "id": 4,
+      "title": "koenigsegg agera",
+      "coverImg": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562245742/autoexpress/2018/01/5_agera_rs.jpg",
+      "videoUrl": "https://www.youtube.com/embed/R1g07RpTPFE?autoplay=1"
+    },
+    {
+      "id": 5,
+      "title": " GT-R ",
+      "coverImg": "https://roa.h-cdn.co/assets/16/18/1024x512/gallery-1462289981-gt-r.jpg",
+      "videoUrl": "https://www.youtube.com/embed/51f9eFe8-Uk?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Super Cars",
+      "videos": [
+        {
+          "id": 1,
+          "title": "The new 911 S/T",
+          "coverImg": "https://images.squarespace-cdn.com/content/v1/5f7ca9b4bb17060b028086bb/3a507996-5dca-4006-841b-edca2fc3e1cc/CZ22V23OX0005.jpeg",
+          "videoUrl": "https://www.youtube.com/embed/OTi50jdcx3s?autoplay=1"
+        },
+        {
+          "id": 2,
+          "title": "The Pagani Huayra BC",
+          "coverImg": "https://cdn.carbuzz.com/gallery-images/840x560/614000/100/614175.jpg",
+          "videoUrl": "https://www.youtube.com/embed/PfjcgcOfgww?autoplay=1"
+        },
+        {
+          "id": 5,
+          "title": " GT-R ",
+          "coverImg": "https://roa.h-cdn.co/assets/16/18/1024x512/gallery-1462289981-gt-r.jpg",
+          "videoUrl": "https://www.youtube.com/embed/51f9eFe8-Uk?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Hyper Cars",
+      "videos": [
+        {
+          "id": 3,
+          "title": "Buggati Chiron",
+          "coverImg": "https://media.assettype.com/evoindia/2020-03/da13d2d7-eb66-47a1-9116-91c35d2b8bfe/Bugatti_Chiron_Pur_Sport.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+          "videoUrl": "https://www.youtube.com/embed/FuS_bXJNync?autoplay=1"
+        },
+        {
+          "id": 4,
+          "title": "koenigsegg agera",
+          "coverImg": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1562245742/autoexpress/2018/01/5_agera_rs.jpg",
+          "videoUrl": "https://www.youtube.com/embed/R1g07RpTPFE?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": 1,
+      "title": "The new 911 S/T",
+      "videoUrl": "https://www.youtube.com/embed/OTi50jdcx3s?autoplay=1",
+      "time": "10-45-2024, 10:45 PM"
+    },
+    {
+      "id": 2,
+      "title": "koenigsegg agera",
+      "videoUrl": "https://www.youtube.com/embed/R1g07RpTPFE?autoplay=1",
+      "time": "10-45-2024, 10:45 PM"
+    },
+    {
+      "id": 3,
+      "title": "koenigsegg agera",
+      "videoUrl": "https://www.youtube.com/embed/R1g07RpTPFE?autoplay=1",
+      "time": "10-24-2024, 11:24 PM"
+    }
+  ]
+}
